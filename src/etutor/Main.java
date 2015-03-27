@@ -15,7 +15,7 @@ public class Main {
             x = cin.nextDouble();
 //            y = cin.nextInt();
 //            z = cin.nextInt();
-             
+             //
             
 //            double x1 =(double) x;
 //            double y1 =(double) y;
